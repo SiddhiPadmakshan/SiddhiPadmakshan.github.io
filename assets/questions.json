@@ -1,22 +1,22 @@
 [
     {
         "questionId": 1,
-        "question" : "What is the maximum number of Members in Lok Sabha?",
+        "question" : "A flashing red traffic light signifies that a driver should do what?",
         "options": [
             {
-                "answer": "512",
-                "isCorrect": false
-            },
-            {
-                "answer": "542",
-                "isCorrect": false
-            },
-            {
-                "answer": "552",
+                "answer": "stop",
                 "isCorrect": true
             },
             {
-                "answer": "532",
+                "answer": "speed up",
+                "isCorrect": false
+            },
+            {
+                "answer": "proceed with caution",
+                "isCorrect": false
+            },
+            {
+                "answer": "honk the horn",
                 "isCorrect": false
             }
         ]
