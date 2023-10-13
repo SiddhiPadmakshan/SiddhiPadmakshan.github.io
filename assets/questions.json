@@ -1,0 +1,288 @@
+[
+    {
+        "questionId": 1,
+        "question" : "What is the maximum number of Members in Lok Sabha?",
+        "options": [
+            {
+                "answer": "512",
+                "isCorrect": false
+            },
+            {
+                "answer": "542",
+                "isCorrect": false
+            },
+            {
+                "answer": "552",
+                "isCorrect": true
+            },
+            {
+                "answer": "532",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionId": 2,
+        "question" : "Which Veda depicts the information about the most ancient Vedic age culture?",
+        "options": [
+            {
+                "answer": "Samaveda",
+                "isCorrect": false
+            },
+            {
+                "answer": "Rig Veda",
+                "isCorrect": true
+            },
+            {
+                "answer": "Atharvaveda",
+                "isCorrect": false
+            },
+            {
+                "answer": "Yajurveda",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionId": 3,
+        "question" : "Who was the first Tirthankara of the Jains?",
+        "options": [
+            {
+                "answer": "Ajitnath",
+                "isCorrect": false
+            },
+            {
+                "answer": "Parshwnath",
+                "isCorrect": false
+            },
+            {
+                "answer": "Aristhenemi",
+                "isCorrect": false
+            },
+            {
+                "answer": "Rishabhdev",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionId": 4,
+        "question" : "The maginot line exists between which country?",
+        "options": [
+            {
+                "answer": "Germany and Poland",
+                "isCorrect": false
+            },
+            {
+                "answer": "Namibia and Angola",
+                "isCorrect": false
+            },
+            {
+                "answer": "France and Germany",
+                "isCorrect": true
+            },
+            {
+                "answer": "USA and Canada",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionId": 5,
+        "question" : "The first pico satellite of India is- ",
+        "options": [
+            {
+                "answer": "ANUSAT",
+                "isCorrect": false
+            },
+            {
+                "answer": "INSAT",
+                "isCorrect": false
+            },
+            {
+                "answer": "STUDSAT",
+                "isCorrect": true
+            },
+            {
+                "answer": "GSAT-4",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionId": 6,
+        "question" : "Couple burial was found in which of the following Harappan sites?",
+        "options": [
+            {
+                "answer": "Harappa",
+                "isCorrect": false
+            },
+            {
+                "answer": "Chanhudado",
+                "isCorrect": false
+            },
+            {
+                "answer": "Mohenjodaro",
+                "isCorrect": false
+            },
+            {
+                "answer": "Lothal",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionId": 7,
+        "question" : "Which of the following is known as the Diamond City of India?",
+        "options": [
+            {
+                "answer": "Panna",
+                "isCorrect": true
+            },
+            {
+                "answer": "Mumbai",
+                "isCorrect": false
+            },
+            {
+                "answer": "Jaipur",
+                "isCorrect": false
+            },
+            {
+                "answer": "Surat",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionId": 8,
+        "question" : "Where is the National Institute Agricultural Marketing (NIAM) located?",
+        "options": [
+            {
+                "answer": "Hisar",
+                "isCorrect": false
+            },
+            {
+                "answer": "Jaipur",
+                "isCorrect": true
+            },
+            {
+                "answer": "New Delhi",
+                "isCorrect": false
+            },
+            {
+                "answer": "Bhopal",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionId": 9,
+        "question" : "Kalinga's King Kharvela was associated with which of the following dynasty? ",
+        "options": [
+            {
+                "answer": "Rath-Bhojak dynasty",
+                "isCorrect": false
+            },
+            {
+                "answer": "Satvahana dynasty",
+                "isCorrect": false
+            },
+            {
+                "answer": "Mahameghavahana dynasty",
+                "isCorrect": true
+            },
+            {
+                "answer": "Haryanka dynasty",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionId": 10,
+        "question" : "Defeat of which dynasty paved way for the establishment of Mauryan dynasty?",
+        "options": [
+            {
+                "answer": "Nanda Dynasty",
+                "isCorrect": true
+            },
+            {
+                "answer": "Chandela Dynasty",
+                "isCorrect": false
+            },
+            {
+                "answer": "Aryanka Dynasty",
+                "isCorrect": false
+            },
+            {
+                "answer": "Hoysala Dynasty",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionId": 11,
+        "question" : "How many members of the Indian Army discovered World War II US Air Force aircraft?",
+        "options": [
+            {
+                "answer": "12",
+                "isCorrect": true
+            },
+            {
+                "answer": "5",
+                "isCorrect": false
+            },
+            {
+                "answer": "20",
+                "isCorrect": false
+            },
+            {
+                "answer": "8",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionId": 12,
+        "question" : "Impeachment of President can be initiated in which house of parliament?",
+        "options": [
+            {
+                "answer": "Rajya Sabha",
+                "isCorrect": false
+            },
+            {
+                "answer": "Lok Sabha",
+                "isCorrect": false
+            },
+            {
+                "answer": "in both houses same time",
+                "isCorrect": false
+            },
+            {
+                "answer": "either house of parliament",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionId": 13,
+        "question" : "Who discovered bacteria?",
+        "options": [
+            {
+                "answer": "Louis Pasteur",
+                "isCorrect": false
+            },
+            {
+                "answer": "Leeuwenhoek",
+                "isCorrect": true
+            },
+            {
+                "answer": "Robert Hooke",
+                "isCorrect": false
+            },
+            {
+                "answer": "Torricelli",
+                "isCorrect": false
+            }
+        ]
+    }
+]
