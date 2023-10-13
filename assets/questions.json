@@ -1,286 +1,220 @@
 [
     {
         "questionId": 1,
-        "question" : "A flashing red traffic light signifies that a driver should do what?",
+        "question" : "During the First World War, which country signed the Peace Treaty (1917) with Germany",
         "options": [
             {
-                "answer": "stop",
+                "answer": "England",
+                "isCorrect": false
+            },
+            {
+                "answer": "USA",
+                "isCorrect": false
+            },
+            {
+                "answer": "Russia",
                 "isCorrect": true
             },
             {
-                "answer": "speed up",
-                "isCorrect": false
-            },
-            {
-                "answer": "proceed with caution",
-                "isCorrect": false
-            },
-            {
-                "answer": "honk the horn",
+                "answer": "Austria",
                 "isCorrect": false
             }
         ]
     },
     {
         "questionId": 2,
-        "question" : "Which Veda depicts the information about the most ancient Vedic age culture?",
+        "question" : "When did United Kingdom declared war on Germany which lead to World War II?",
         "options": [
             {
-                "answer": "Samaveda",
+                "answer": "4th April 1939",
                 "isCorrect": false
             },
             {
-                "answer": "Rig Veda",
+                "answer": "18th August 1939",
+                "isCorrect": false
+            },
+            {
+                "answer": "28th August 1939",
+                "isCorrect": false
+            },
+            {
+                "answer": "3rd September 1939",
                 "isCorrect": true
-            },
-            {
-                "answer": "Atharvaveda",
-                "isCorrect": false
-            },
-            {
-                "answer": "Yajurveda",
-                "isCorrect": false
             }
         ]
     },
     {
         "questionId": 3,
-        "question" : "Who was the first Tirthankara of the Jains?",
+        "question" : "In which year, America joined the Second World War",
         "options": [
             {
-                "answer": "Ajitnath",
+                "answer": "1939",
                 "isCorrect": false
             },
             {
-                "answer": "Parshwnath",
+                "answer": "1940",
                 "isCorrect": false
             },
             {
-                "answer": "Aristhenemi",
-                "isCorrect": false
-            },
-            {
-                "answer": "Rishabhdev",
+                "answer": "1941",
                 "isCorrect": true
+            },
+            {
+                "answer": "1942",
+                "isCorrect": false
             }
         ]
     },
     {
         "questionId": 4,
-        "question" : "The maginot line exists between which country?",
+        "question" : "The immediate cause for the outbreak of the first World War was",
         "options": [
             {
-                "answer": "Germany and Poland",
-                "isCorrect": false
-            },
-            {
-                "answer": "Namibia and Angola",
-                "isCorrect": false
-            },
-            {
-                "answer": "France and Germany",
+                "answer": "The assassination of Archduke Francis Ferdinand",
                 "isCorrect": true
             },
             {
-                "answer": "USA and Canada",
+                "answer": "The imprisonment of Lenin",
+                "isCorrect": false
+            },
+            {
+                "answer": "The ambition of America to dominate the world",
+                "isCorrect": false
+            },
+            {
+                "answer": "The sudden death of Lloyd George",
                 "isCorrect": false
             }
         ]
     },
     {
         "questionId": 5,
-        "question" : "The first pico satellite of India is- ",
+        "question" : "Who were the Axis powers in World War-II?",
         "options": [
             {
-                "answer": "ANUSAT",
+                "answer": "Poland, Japan, Germany",
                 "isCorrect": false
             },
             {
-                "answer": "INSAT",
+                "answer": "Italy, Japan, Britain",
                 "isCorrect": false
             },
             {
-                "answer": "STUDSAT",
+                "answer": "Germany, Italy, France",
+                "isCorrect": false
+            },
+            {
+                "answer": "Germany, Italy, Japan",
                 "isCorrect": true
-            },
-            {
-                "answer": "GSAT-4",
-                "isCorrect": false
             }
         ]
     },
     {
         "questionId": 6,
-        "question" : "Couple burial was found in which of the following Harappan sites?",
+        "question" : "On which side did Japan fight in the First World War?",
         "options": [
             {
-                "answer": "Harappa",
+                "answer": "None, it was neutral",
                 "isCorrect": false
             },
             {
-                "answer": "Chanhudado",
+                "answer": "With Germany against United Kingdom",
                 "isCorrect": false
             },
             {
-                "answer": "Mohenjodaro",
+                "answer": "Against Russia on its own",
                 "isCorrect": false
             },
             {
-                "answer": "Lothal",
+                "answer": "With United Kingdom against Germany",
                 "isCorrect": true
             }
         ]
     },
     {
         "questionId": 7,
-        "question" : "Which of the following is known as the Diamond City of India?",
+        "question" : "The last country of Axis power to surrender during the end of the World War II was",
         "options": [
             {
-                "answer": "Panna",
+                "answer": "Germany",
+                "isCorrect": false
+            },
+            {
+                "answer": "Japan",
                 "isCorrect": true
             },
             {
-                "answer": "Mumbai",
+                "answer": "Italy",
                 "isCorrect": false
             },
             {
-                "answer": "Jaipur",
-                "isCorrect": false
-            },
-            {
-                "answer": "Surat",
+                "answer": "France",
                 "isCorrect": false
             }
         ]
     },
     {
         "questionId": 8,
-        "question" : "Where is the National Institute Agricultural Marketing (NIAM) located?",
+        "question" : "Who become the Chancellor of Germany for One Day after the death of Hitler during Second World War",
         "options": [
             {
-                "answer": "Hisar",
+                "answer": "Hermann Goering",
                 "isCorrect": false
             },
             {
-                "answer": "Jaipur",
+                "answer": "Heinrich Himmler",
+                "isCorrect": false
+            },
+            {
+                "answer": "Rudolf Hess",
+                "isCorrect": false
+            },
+            {
+                "answer": "Joseph Goebbels",
                 "isCorrect": true
-            },
-            {
-                "answer": "New Delhi",
-                "isCorrect": false
-            },
-            {
-                "answer": "Bhopal",
-                "isCorrect": false
             }
         ]
     },
     {
         "questionId": 9,
-        "question" : "Kalinga's King Kharvela was associated with which of the following dynasty? ",
+        "question" : "The war criminals of the World War-II were put to trial in",
         "options": [
             {
-                "answer": "Rath-Bhojak dynasty",
-                "isCorrect": false
-            },
-            {
-                "answer": "Satvahana dynasty",
-                "isCorrect": false
-            },
-            {
-                "answer": "Mahameghavahana dynasty",
+                "answer": "Nuremburg",
                 "isCorrect": true
             },
             {
-                "answer": "Haryanka dynasty",
+                "answer": "Peitersburg",
+                "isCorrect": false
+            },
+            {
+                "answer": "Gettysburg",
+                "isCorrect": false
+            },
+            {
+                "answer": "Peitsburg",
                 "isCorrect": false
             }
         ]
     },
     {
         "questionId": 10,
-        "question" : "Defeat of which dynasty paved way for the establishment of Mauryan dynasty?",
+        "question" : "Where was republic established in Germany after the First World War",
         "options": [
             {
-                "answer": "Nanda Dynasty",
+                "answer": "Munich",
+                "isCorrect": false
+            },
+            {
+                "answer": "Weimer",
                 "isCorrect": true
             },
             {
-                "answer": "Chandela Dynasty",
+                "answer": "Berlin",
                 "isCorrect": false
             },
             {
-                "answer": "Aryanka Dynasty",
-                "isCorrect": false
-            },
-            {
-                "answer": "Hoysala Dynasty",
-                "isCorrect": false
-            }
-        ]
-    },
-    {
-        "questionId": 11,
-        "question" : "How many members of the Indian Army discovered World War II US Air Force aircraft?",
-        "options": [
-            {
-                "answer": "12",
-                "isCorrect": true
-            },
-            {
-                "answer": "5",
-                "isCorrect": false
-            },
-            {
-                "answer": "20",
-                "isCorrect": false
-            },
-            {
-                "answer": "8",
-                "isCorrect": false
-            }
-        ]
-    },
-    {
-        "questionId": 12,
-        "question" : "Impeachment of President can be initiated in which house of parliament?",
-        "options": [
-            {
-                "answer": "Rajya Sabha",
-                "isCorrect": false
-            },
-            {
-                "answer": "Lok Sabha",
-                "isCorrect": false
-            },
-            {
-                "answer": "in both houses same time",
-                "isCorrect": false
-            },
-            {
-                "answer": "either house of parliament",
-                "isCorrect": true
-            }
-        ]
-    },
-    {
-        "questionId": 13,
-        "question" : "Who discovered bacteria?",
-        "options": [
-            {
-                "answer": "Louis Pasteur",
-                "isCorrect": false
-            },
-            {
-                "answer": "Leeuwenhoek",
-                "isCorrect": true
-            },
-            {
-                "answer": "Robert Hooke",
-                "isCorrect": false
-            },
-            {
-                "answer": "Torricelli",
+                "answer": "Bavaria",
                 "isCorrect": false
             }
         ]
